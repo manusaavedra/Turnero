@@ -11,4 +11,4 @@ Turnero con conexión socket tcp/ip creado en java escucha en el puerto: 9876
 - exit: apagar el servidor socket.
 
 El programa funciona remotamente mediante una conexion tcp/ip en el puerto 9876 la dirección del
-servidor depende del pc que se ejecute la aplicación servidor. y solo hace falta enviar los comandos al servidor.
+servidor depende del pc en el que se ejecute la aplicación servidor. y solo hace falta enviar los comandos al servidor.
